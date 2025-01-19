@@ -1,5 +1,5 @@
 ## LumiCharge: Spherical Harmonic Convolutional Networks for Atomic Charge Prediction in Drug Discovery
-![Figure1](https://github.com/lingcon01/LumiCharge/models/Figure1.png)
+![Figure1](https://github.com/lingcon01/LumiCharge/blob/main/models/Figure1.png)
 
 If you want to use LumiCharge to predict atom charge
 
